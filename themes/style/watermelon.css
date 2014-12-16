@@ -536,3 +536,15 @@ img.middle {
   height: 2px;
   background: #AAA;
 }
+
+.compact {
+  font-size: 8px;
+}
+
+.fullscreen {
+  padding: 0 !important;
+}
+
+.pull-center {
+  text-align: center;
+}
